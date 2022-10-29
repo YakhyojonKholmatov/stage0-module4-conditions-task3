@@ -14,6 +14,7 @@ public class SalaryCalculator {
         }else if(salary>20000){
             afterTax=salary-salary*20/100;
             System.out.println(afterTax);
+            //
         }
     }
 }
